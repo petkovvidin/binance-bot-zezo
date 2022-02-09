@@ -3,7 +3,7 @@ from discord import Webhook, RequestsWebhookAdapter
 
 def url_chooser(coin_pair):
     if coin_pair == 'shibusdt':
-        discord_url = 'https://discord.com/api/webhooks/940228095925968916/ULzHu2Ext7ik-k0VGh2Tb1TIcIPhE7uQN1VMLVelixKGW0y5ZOIZKQnFStVnmOSXb9Zd'
+        discord_url = ''
     elif coin_pair == 'ethusdt':
         discord_url = ''
     else:
