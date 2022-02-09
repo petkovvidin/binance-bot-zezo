@@ -36,7 +36,6 @@ I want to read that I am new to programming and I still have no experience with 
 
 Also pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
 
 ## Disclaimer:
 
