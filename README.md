@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Before starting the bot you need to paste your api keys from binance in config.py . After that in discord_msg.py you need to paste your webhook from discord (optionaly if you want to keep track of the things that happend).
+Before starting the bot you need to paste your api keys from binance in config.py . After that in discord_msg.py you need to paste your webhook from discord.
 
 The usage is very simple:
 
